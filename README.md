@@ -2,7 +2,7 @@
 
 **This code is published for security researchers, do not use this code for any purpose unless you know what you are doing.**
 
-multicast_bytecopy is a kernel r/w exploit for iOS 15.0 - 15.1.1 by [@jaakerblom](https://twitter.com/jaakerblom) and the spiritual successor of [multipath_kfree](https://github.com/potmdehex/multipath_kfree). 
+multicast_bytecopy is a kernel r/w exploit for iOS 15.0 - 15.1.1 by [@jaakerblom](https://twitter.com/jaakerblom) and the spiritual successor of [multipath_kfree for iOS 11.3.1](https://github.com/potmdehex/multipath_kfree). 
 
 The exploit can be adapted to gain kernel r/w on prior iOS versions. **This implementation is for iOS 15.0 - 15.1.1.**
 
